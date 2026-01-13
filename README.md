@@ -1,1 +1,1 @@
-# sql_analysis
+Bu proje, SQL LEFT JOIN ve aggregation (COUNT, SUM, HAVING) mantığını pekiştirmek için hazırlanmıştır. Amacı, hiç sipariş vermeyen müşterileri, stokta olup satılmamış ürünleri, ciroya göre en iyi ürünleri ve kategori bazlı satış durumlarını analiz edebilmektir. Tüm sorgular, gerçek iş senaryolarına uygun olarak yazılmıştır ve sonuçlar Customers, Orders, Order_Details ve Products tabloları üzerinden üretilmektedir. 
